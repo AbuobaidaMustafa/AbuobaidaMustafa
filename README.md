@@ -11,9 +11,3 @@ Enthusiastic Web Developer eager to contribute to team success through hard work
 <a href="https://academy.yoast.com/certificate/22492/1674170/5ef962acd0400763a74d1d618945306f/1/" target="_blank"><img src="https://academy.yoast.com/badge/22492/1674170/5ef962acd0400763a74d1d618945306f/1/" width="100" alt="Abuobaida Mustafa successfully completed the Technical SEO: Crawlability and indexability course!"/></a>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
